@@ -2,6 +2,10 @@
 
 This project leverages Google's Agent Development Kit (ADK) and the Gemini 2.5 Flash Lite model to generate enterprise-grade software testing artifacts from requirements and user stories.
 
+## Project Relevance
+
+This AI Agent Test Planner demonstrates practical QA expertise by automating the creation of industry-standard test plans, test scenarios, traceability matrices, risk assessments, and high-level test cases used in real-world software testing projects.
+
 ### AI Capabilities
 
 * Automated Test Plan Generation
